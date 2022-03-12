@@ -1,2 +1,2 @@
 # Unity-DXR
-This is a SRP ray tracing render pipeline I created. Support raytracing reflection、raytracing shadow、multi-pass soft shadow and raytracing soft shadow.
+This is a tracing render pipeline I created use SRP in unity. Support raytracing reflection、raytracing shadow、multi-pass soft shadow and raytracing soft shadow.
